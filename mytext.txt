@@ -2,6 +2,6 @@ This is a text I'm doing to learn git. Lorem ipsum dolor sit amet, consectetur a
 
 The first version has a lorem ipsum in the first paragraph. This is the first version.
 
-This paragraph is something I will be thinking about. I will change here a bit before comitting.
+This paragraph is something I will be thinking about. I will change here a bit before comitting. Hmm.. Changed
 
 Now I did my first commit. I want to save again and see what happens.
